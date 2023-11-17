@@ -10,9 +10,6 @@ function randomHexVal() {
 
 console.log(randomHexVal());
 
-// clickMe.addEventListener("click", (e) => {
-
-// })
 clickMe.addEventListener("click", (e) => {
     let hexColor = '#';
     for (let i = 1; i <= 6; i++) {
